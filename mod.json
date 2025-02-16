@@ -1,0 +1,10 @@
+{
+  "name": "Kanye router",
+  "displayName": "Kanye router",
+  "author": "VladIslover",
+  "description": "Changes router texture to a photo of popular designer from Chicago Kanye West",
+  "version": "1",
+  "hidden": false,
+  "minGameVersion": "146",
+  "dependencies": []
+}
